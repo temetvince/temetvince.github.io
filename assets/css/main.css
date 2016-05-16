@@ -126,7 +126,8 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: #414f57;
+		/*color: #414f57;*/
+		color: #AAAAAA;
 		font-family: "Open Sans", Helvetica, Arial, sans-serif;
 		font-size: 14pt;
 		font-weight: 300;
@@ -702,6 +703,7 @@
 
 	#main {
 		position: relative;
+		/*max-width: 100%;*/
 		max-width: 50%;
 		min-width: 27em;
 		padding: 4.5em 3em 3em 3em ;
@@ -735,7 +737,8 @@
 				display: block;
 				margin: 0 auto;
 				border-radius: 100%;
-				box-shadow: 0 0 0 1.5em #ffffff;
+				/*box-shadow: 0 0 0 1.5em #ffffff;*/
+				box-shadow: 0 0 0 1.5em #222222;
 			}
 
 			#main .avatar:before {
