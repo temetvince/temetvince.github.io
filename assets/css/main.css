@@ -705,11 +705,11 @@
 	#main {
 		position: relative;
 		/*max-width: 100%;*/
-		max-width: 50em;
+		max-width: 40em;
 		min-width: 27em;
 		padding: 4.5em 3em 3em 3em ;
 		/*background: #ffffff;*/
-		background-color: #333333;
+		background-color: #111111;
 		border-radius: 4px;
 		cursor: default;
 		opacity: 0.95;
@@ -739,7 +739,7 @@
 				margin: 0 auto;
 				border-radius: 100%;
 				/*box-shadow: 0 0 0 1.5em #ffffff;*/
-				box-shadow: 0 0 0 1.5em #333333;
+				box-shadow: 0 0 0 1.5em #111111;
 			}
 
 			#main .avatar:before {
