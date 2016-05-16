@@ -127,7 +127,7 @@
 
 	body, input, select, textarea {
 		/*color: #414f57;*/
-		color: #AAAAAA;
+		color: #ffffff;
 		font-family: "Open Sans", Helvetica, Arial, sans-serif;
 		font-size: 14pt;
 		font-weight: 300;
@@ -186,7 +186,8 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #313f47;
+		/*color: #313f47;*/
+		color: #cccccc;
 		line-height: 1.5;
 		margin: 0 0 0.75em 0;
 	}
@@ -704,7 +705,7 @@
 	#main {
 		position: relative;
 		/*max-width: 100%;*/
-		max-width: 50%;
+		max-width: 40%;
 		min-width: 27em;
 		padding: 4.5em 3em 3em 3em ;
 		/*background: #ffffff;*/
@@ -738,7 +739,7 @@
 				margin: 0 auto;
 				border-radius: 100%;
 				/*box-shadow: 0 0 0 1.5em #ffffff;*/
-				box-shadow: 0 0 0 1.5em #222222;
+				box-shadow: 0 0 0 .5em #111111;
 			}
 
 			#main .avatar:before {
