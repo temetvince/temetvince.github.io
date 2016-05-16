@@ -127,7 +127,7 @@
 
 	body, input, select, textarea {
 		/*color: #414f57;*/
-		color: #ffffff;
+		color: #cccccc;
 		font-family: "Open Sans", Helvetica, Arial, sans-serif;
 		font-size: 14pt;
 		font-weight: 300;
@@ -187,7 +187,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		/*color: #313f47;*/
-		color: #cccccc;
+		color: #ffffff;
 		line-height: 1.5;
 		margin: 0 0 0.75em 0;
 	}
@@ -709,7 +709,7 @@
 		min-width: 27em;
 		padding: 4.5em 3em 3em 3em ;
 		/*background: #ffffff;*/
-		background-color: #111111;
+		background-color: #222222;
 		border-radius: 4px;
 		cursor: default;
 		opacity: 0.95;
@@ -739,7 +739,7 @@
 				margin: 0 auto;
 				border-radius: 100%;
 				/*box-shadow: 0 0 0 1.5em #ffffff;*/
-				box-shadow: 0 0 0 1.5em #111111;
+				box-shadow: 0 0 0 1.5em #222222;
 			}
 
 			#main .avatar:before {
