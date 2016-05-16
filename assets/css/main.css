@@ -545,11 +545,15 @@
 					ul.icons li a:before {
 						/*color: #ffffff;*/
 						color: #333333;
-						text-shadow: 1.25px 0px 0px #c8cccf, -1.25px 0px 0px #c8cccf, 0px 1.25px 0px #c8cccf, 0px -1.25px 0px #c8cccf;
+						/*text-shadow: 1.25px 0px 0px #c8cccf, -1.25px 0px 0px #c8cccf, 0px 1.25px 0px #c8cccf, 0px -1.25px 0px #c8cccf;*/
+						text-shadow: 1.25px 0px 0px #cccccc, -1.25px 0px 0px #cccccc, 0px 1.25px 0px #cccccc, 0px -1.25px 0px #cccccc;
+
 					}
 
 					ul.icons li a:hover:before {
-						text-shadow: 1.25px 0px 0px #ff7496, -1.25px 0px 0px #ff7496, 0px 1.25px 0px #ff7496, 0px -1.25px 0px #ff7496;
+						/*text-shadow: 1.25px 0px 0px #ff7496, -1.25px 0px 0px #ff7496, 0px 1.25px 0px #ff7496, 0px -1.25px 0px #ff7496;*/
+						text-shadow: 1.25px 0px 0px #33cc99, -1.25px 0px 0px #33cc99, 0px 1.25px 0px #33cc99, 0px -1.25px 0px #33cc99;
+
 					}
 
 					ul.icons li a:before {
