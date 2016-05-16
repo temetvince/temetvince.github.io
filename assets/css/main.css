@@ -702,11 +702,11 @@
 
 	#main {
 		position: relative;
-		max-width: 100%;
+		max-width: 50%;
 		min-width: 27em;
 		padding: 4.5em 3em 3em 3em ;
 		/*background: #ffffff;*/
-		background-color: #555555;
+		background-color: #333333;
 		border-radius: 4px;
 		cursor: default;
 		opacity: 0.95;
